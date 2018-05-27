@@ -1,0 +1,26 @@
+{
+  "name": "ethapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linan109/ethapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linan109/ethapi/issues"
+  },
+  "homepage": "https://github.com/linan109/ethapi#readme",
+  "dependencies": {
+    "bignumber": "^1.1.0",
+    "express": "^4.16.3",
+    "moment": "^2.22.1",
+    "mysql": "^2.15.0",
+    "web3": "^1.0.0-beta.34"
+  }
+}
