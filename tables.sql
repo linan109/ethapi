@@ -13,7 +13,6 @@ create table airdrop_account_list(
   id int NOT NULL auto_increment,
   token VARCHAR(42),
   airdrop_address VARCHAR(42),
-  keyword VARCHAR(66),
   finney INT,
   token_balance INT
 )
